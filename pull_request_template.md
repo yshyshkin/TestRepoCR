@@ -1,7 +1,7 @@
 test template
 
-[x] 1
-[ ] two
-[x] III
+- [x] 1
+- [ ] two
+- [x] III
 
 edited
