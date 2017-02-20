@@ -1,0 +1,13 @@
+version: 2
+groups:
+  reviewers:
+    users: all
+    required: 1
+    approve_by_comment:
+      enabled: true
+      approve_regex: '^CR passed'
+      reject_regex: '^CR not passed'
+    github_reviews:
+      enabled: true
+    reset_on_push:
+      enabled: true
