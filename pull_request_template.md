@@ -14,6 +14,8 @@
 - [ ] [(?)](http://google.com/) latest base branch was merged to target branch
 - [ ] [(?)](http://google.com/) no mistakes in code
 - [ ] [(?)](http://google.com/) no security vulnerabilities
+- [ ] [(?)](http://google.com/) no memory leaks, no queries to storages with big result set
+- [ ] [(?)](http://google.com/) no performance issues (both at code and storage levels)
 - [ ] [(?)](http://google.com/) boundary values were checked
 - [ ] [(?)](http://google.com/) compatibility with minimum system requirements
 - [ ] [(?)](http://google.com/) code style consistency
