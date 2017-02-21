@@ -12,10 +12,11 @@
 
 **Code Review**
 - [ ] [(?)](http://google.com/) latest base branch was merged to target branch
-- [ ] [(?)](http://google.com/) no mistakes in code 
-- [ ] [(?)](http://google.com/) boundary values were checked 
-- [ ] [(?)](http://google.com/) compatibility with minimum system requirements 
-- [ ] [(?)](http://google.com/) code style consistency 
+- [ ] [(?)](http://google.com/) no mistakes in code
+- [ ] [(?)](http://google.com/) no security vulnerabilities
+- [ ] [(?)](http://google.com/) boundary values were checked
+- [ ] [(?)](http://google.com/) compatibility with minimum system requirements
+- [ ] [(?)](http://google.com/) code style consistency
 - [ ] [(?)](http://google.com/) outdated functionality was marked as deprecated `#optional`
 - [ ] [(?)](http://google.com/) DI services were marked as private `#optional`
 
