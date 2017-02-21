@@ -26,7 +26,7 @@
 - [ ] [(?)](http://google.com/) functional tests cover most common use cases
 
 **Documentation**
-- [x] [(?)](http://google.com/) developers documentation in bundle
-- [x] [(?)](http://google.com/) deprecations and upgrade instructions were added to UPGRADE*.md file `#optional`
+- [ ] [(?)](http://google.com/) developers documentation in bundle
+- [ ] [(?)](http://google.com/) deprecations and upgrade instructions were added to UPGRADE*.md file `#optional`
 - [ ] [(?)](http://google.com/) email about important updates was sent to developers team `#optional`
 - [ ] [(?)](http://google.com/) user documentation task for tech writer was created `#optional`
