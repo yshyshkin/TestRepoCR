@@ -1,5 +1,5 @@
 **Acceptance Criterias**
-- [ ] [(?)](http://google.com/) functionality works as described in the issue description
+- [ ] [(?)](test.md) functionality works as described in the issue description
 - [ ] [(?)](http://google.com/) similar functionality works the same way 
 - [ ] [(?)](http://google.com/) related functionality works as expected 
 - [ ] [(?)](http://google.com/) manual check in complete prod environment (cron, MQ, clank etc) passed `#optional`
